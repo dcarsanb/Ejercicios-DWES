@@ -1,0 +1,39 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-private
+--release
+27
+-sourcepath
+'C:/Users/usuario26/Desktop/Clases/DWES/GestionNominas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/usuario26/Desktop/Clases/DWES/GestionNominas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Laboral 1.0-SNAPSHOT API'
+-nohelp
+-use
+-version
+-windowtitle
+'Laboral 1.0-SNAPSHOT API'
+com.mycompany.gestionnominas
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\src\main\java = 1789717080327
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\allclasses-index.html = 1789986473534
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\allpackages-index.html = 1789986473538
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\element-list = 1789986473451
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\index-all.html = 1789986473565
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\index.html = 1789986473571
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\member-search-index.js = 1789986473547
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\module-search-index.js = 1789986473540
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\overview-tree.html = 1789986473516
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\package-search-index.js = 1789986473543
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\search.html = 1789986473568
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\tag-search-index.js = 1789986473549
+C:\Users\usuario26\Desktop\Clases\DWES\GestionNominas\target\site\apidocs\type-search-index.js = 1789986473545
