@@ -1,4 +1,5 @@
 com\mycompany\gestionnominas\DatosNoCorrectosException.class
+com\mycompany\gestionnominas\Conexion.class
 com\mycompany\gestionnominas\Nomina.class
 com\mycompany\gestionnominas\CalculaNominas.class
 com\mycompany\gestionnominas\Empleado.class
