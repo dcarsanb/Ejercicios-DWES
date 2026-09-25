@@ -24,10 +24,15 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
     <dependency>
-    <groupId>org.mariadb.jdbc</groupId>
-    <artifactId>mariadb-java-client</artifactId>
-    <version>3.3.3</version>
+        <groupId>org.mariadb.jdbc</groupId>
+        <artifactId>mariadb-java-client</artifactId>
+        <version>3.5.10</version>
+        <scope>system</scope>
+        <systemPath>C:/Users/Usuario/Downloads/mariadb-java-client-3.5.10.jar</systemPath>
     </dependency>
+</dependencies>
+
 
 </project>
