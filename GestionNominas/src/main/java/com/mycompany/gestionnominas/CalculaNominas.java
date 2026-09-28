@@ -13,16 +13,16 @@ public class CalculaNominas {
     }
     public static void main(String[] args) {
         
-        Connection cn = Conexion.obtenerConexion();
+        Connection cn = DBUtils.getConnection();
         
         if(cn != null){
             System.out.println("Conexion establecida");
                
-        String query = "SELECT id, nombre FROM usuarios";
+        String query = "SELECT dni, nombre FROM empleados";
         
         try(Statement st = cn.createStatement();
             ResultSet rs = st.executeQuery(query);){
-            System.out.println("Lista de Usuarios:");
+            System.out.println("Lista de Empleados:");
             System.out.println("DNI NOMBRE");
             System.out.println("---------");
             
