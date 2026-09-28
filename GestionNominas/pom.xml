@@ -7,10 +7,17 @@
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.release>27</maven.compiler.release>
-        <exec.mainClass>com.mycompany.gestionnominas.Persona</exec.mainClass>
+        <maven.compiler.release>21</maven.compiler.release>
+        <exec.mainClass>com.mycompany.gestionnominas.CalculaNominas</exec.mainClass>
     </properties>
-    <name>Laboral</name>
+    <name>GestionNominas</name>
+    <dependencies>
+        <dependency>
+    <groupId>org.mariadb.jdbc</groupId>
+    <artifactId>mariadb-java-client</artifactId>
+    <version>3.3.3</version>
+    </dependency>
+    </dependencies>
     <build>
         <plugins>
             <plugin>
@@ -24,10 +31,6 @@
             </plugin>
         </plugins>
     </build>
-    <dependency>
-    <groupId>org.mariadb.jdbc</groupId>
-    <artifactId>mariadb-java-client</artifactId>
-    <version>3.3.3</version>
-    </dependency>
+    
 
 </project>

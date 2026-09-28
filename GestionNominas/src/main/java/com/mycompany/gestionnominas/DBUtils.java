@@ -8,9 +8,9 @@ import java.sql.Statement;
 
 public class DBUtils {
     public static Connection getConnection() throws SQLException {
-        final String USER = "company";
-        final String PASS = "company";
-        final String DB_NAME = "company_db";
+        final String USER = "root";
+        final String PASS = "usuario";
+        final String DB_NAME = "ejerciciosNominas";
         final String CONN_URL = "jdbc:mariadb://localhost:3306/" + DB_NAME;
         Connection conn = null;       
 
