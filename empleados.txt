@@ -1,0 +1,4 @@
+32000032G, James Cosling, M, 9, 7
+32000031R, Ada Lovelance, F, 2, 1
+12345678F, David Caraballo, M, 3, 2
+87654321K, Manuel Morales, M, 7, 5

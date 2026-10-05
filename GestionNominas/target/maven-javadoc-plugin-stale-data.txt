@@ -1,0 +1,42 @@
+@options
+@packages
+-classpath
+'C:/Users/Usuario/.m2/repository/org/mariadb/jdbc/mariadb-java-client/3.5.10/mariadb-java-client-3.5.10.jar'
+-encoding
+'UTF-8'
+-private
+--release
+21
+-sourcepath
+'C:/Users/Usuario/Documents/GitHub/Ejercicios-DWES/GestionNominas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Documents/GitHub/Ejercicios-DWES/GestionNominas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GestionNominas 1.0-SNAPSHOT API'
+-nohelp
+-use
+-version
+-windowtitle
+'GestionNominas 1.0-SNAPSHOT API'
+com.mycompany.gestionnominas
+C:\Users\Usuario\.m2\repository\org\mariadb\jdbc\mariadb-java-client\3.5.10\mariadb-java-client-3.5.10.jar = 1791196458243
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\src\main\java = 1790321617811
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\allclasses-index.html = 1791198109662
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\allpackages-index.html = 1791198109666
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\element-list = 1791198109492
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\index-all.html = 1791198109727
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\index.html = 1791198109734
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\member-search-index.js = 1791198109673
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\module-search-index.js = 1791198109668
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\overview-tree.html = 1791198109600
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\package-search-index.js = 1791198109670
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\search.html = 1791198109731
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\tag-search-index.js = 1791198109674
+C:\Users\Usuario\Documents\GitHub\Ejercicios-DWES\GestionNominas\target\site\apidocs\type-search-index.js = 1791198109671
