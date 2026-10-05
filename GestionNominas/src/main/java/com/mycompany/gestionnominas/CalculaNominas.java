@@ -317,7 +317,7 @@ public class CalculaNominas {
                     case 5:
                         recalcularTodos();
                         break;
-                    case 7:
+                    case 6:
                         altaDesdeTeclado();
                         break;
                     default:
